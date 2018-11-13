@@ -9,9 +9,10 @@ a {
     color: white;
     font-family: Helvetica;
     font-size: 36px;
+    margin: 0 auto;
     }
 
-.color-info, h2 {
+.color-info, .nav {
   color: black;
   border: 3px solid black;
 }
